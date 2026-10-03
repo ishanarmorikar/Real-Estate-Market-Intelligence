@@ -1,0 +1,14 @@
+Data Quality Check,Result
+Total Records,25035
+Total Columns,22
+Duplicate Property IDs,35
+Missing Locality,100
+Missing Furnishing Status,150
+Missing Parking Spaces,75
+Missing Bathrooms,50
+Invalid BHK,0
+Invalid Area,0
+Invalid Price,0
+Invalid Price/Sq.Ft.,0
+Inconsistent Furnishing Values,10
+Inconsistent Locality Type,10
