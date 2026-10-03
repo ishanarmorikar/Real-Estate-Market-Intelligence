@@ -6,7 +6,7 @@ An end-to-end data analytics project analyzing property prices, locations, prope
 
 ## 📌 Project Overview
 
-This project analyzes a synthetic real estate dataset containing 25,000 property records across Mumbai, Thane, Navi Mumbai, and Pune.
+This project analyzes a synthetic real estate dataset containing **25,000 property records** across **Mumbai, Thane, Navi Mumbai, and Pune**.
 
 The objective is to clean and validate property data, perform SQL-based market analysis, conduct exploratory data analysis using Python, and develop interactive Power BI dashboards to identify pricing patterns, location-level differences, property trends, and market segments.
 
@@ -43,9 +43,9 @@ The project uses these factors to answer business questions such as:
 
 | Tool | Purpose |
 |---|---|
-| Excel | Data cleaning, validation and quality checks |
+| Excel | Data cleaning, validation, and quality checks |
 | PostgreSQL | Data storage and SQL analysis |
-| Python | Exploratory Data Analysis and statistical analysis |
+| Python | Exploratory Data Analysis |
 | Pandas | Data manipulation |
 | NumPy | Numerical analysis |
 | Matplotlib | Data visualization |
